@@ -1,13 +1,13 @@
 ### Olá👋 me chamo Kamila
  
 
-|| 👩‍🎓 Sou formada em Engenharia da Computação pela Universidade Federal do Ceará
+|| 👩‍🎓 Engenheira da Computação pela Universidade Federal do Ceará
 
-|| 📚 Atualmente sou mestranda em Engenharia Elétrica e da Computação
+|| 📚 Atualmente Mestranda em Engenharia Elétrica e da Computação pela UFC
 
 || 👀 Tenho interesse na área de Machine Learning e Data Science
 
-|| 🌱 Também estou iniciando estudos na área de NLP
+|| 🌱 Iniciando estudos na área de Processamento de Linguagem Natural 
 
 || 📫 Meu linkedin: https://www.linkedin.com/in/kamila-gomes/
 
