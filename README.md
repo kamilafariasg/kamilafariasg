@@ -1,7 +1,7 @@
 ### Olá👋 me chamo Kamila
  
 
-|| 👩‍🎓 Engenheira da Computação pela Universidade Federal do Ceará
+|| 👩‍🎓 sou Engenheira da Computação pela Universidade Federal do Ceará
 
 || 📚 Atualmente Mestranda em Engenharia Elétrica e da Computação pela UFC
 
