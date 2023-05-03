@@ -3,7 +3,6 @@
 
 || 👩‍🎓 sou Mestranda em Engenharia Elétrica e da Computação pelo PPGEEC e Engenheira da Computação pela Universidade Federal do Ceará 
 
-|| 📚 Atualmente sou Professora Substituta na Área de Programação na UFC - Campus Crateus
 
 || 👀 Tenho interesse na área de Machine Learning, Data Science e Artificial Intelligence
 
