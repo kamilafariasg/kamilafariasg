@@ -1,7 +1,7 @@
 ### Olá👋 me chamo Kamila
  
 
-|| 👩‍🎓 sou Mestranda em Engenharia Elétrica e da Computação pelo PPGEEC e Engenheira da Computação pela Universidade Federal do Ceará 
+|| 👩‍🎓 sou Professora do Magistério Superior na área de Programação Computacional, Mestra em Engenharia Elétrica e da Computação pelo PPGEEC e Engenheira da Computação pela Universidade Federal do Ceará 
 
 
 || 👀 Tenho interesse na área de Machine Learning, Data Science e Artificial Intelligence
